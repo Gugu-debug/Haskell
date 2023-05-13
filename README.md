@@ -1,24 +1,24 @@
-Este repositório foi criado por um aluno de Engenharia de Computação do Departamento de Computação (DComp) da Universidade Federal de Sergipe (UFS) para documentação e ensino do Paradigma Funcional utilizando a linguagem Haskell.
+Este repositório foi criado por um aluno de Engenharia de Computação do Departamento de Computação (DComp) da Universidade Federal de Sergipe (UFS) para documentação e ensino do Paradigma Funcional utilizando a linguagem Haskell.<br>
 O código possui arquivos separados por nível de aprendizado, bibliotecas próprias e projetos.
 
 Abaixo segue uma pequena documentação acerca do projeto, também como o andamento de cada uma das pastas.
 
 **Pastas:**<br>
-    1.iniciante     -> 0%<br>
-    2.intermediario -> 0%<br>
-    3.avancado      -> 0%<br>
-    5.IO            -> 0%<br>
-    6.projetos      -> 0%<br>
-    bibliotecas     -> 0%<br>
+    1. iniciante     -> 0%<br>
+    2. intermediario -> 0%<br>
+    3. avancado      -> 0%<br>
+    5. IO            -> 0%<br>
+    6. projetos      -> 0%<br>
+    Bibliotecas      -> 0%<br>
 Obs: Novas pastas serão adicionadas aqui
 
 **Instalação:**<br>
-    Foi utilizado o **Chocolatey** *https://chocolatey.org/install* como instalador de pacotes pelo **PowerShell** via **Administrador**.<br>
+    Foi utilizado o **Chocolatey** (*https://chocolatey.org/install*) pelo **PowerShell** via **Administrador**.<br>
     **Comando utilizado:** *choco install ghc*<br>
     **Versão:** *ghc-9.6.1*
 
 **Inicialiazação:**<br>
-    Para se inicializar o Glasgow Haskell Compiler (GHC):<br>
+    ```Para se inicializar o Glasgow Haskell Compiler (GHC):<br>```
         1. Abra o terminal e insira *ghci*.<br>
         2. Encontre o diretorio que estão seus arquivos ou que você deseje trabalhar utilizando *cd: (caminho que seja chegar)*.<br>
         3. Após chegar na pasta com os arquivos utilize o comando *:load (nome do arquivo)* ou *:l (nome do arquivo)*.<br>
