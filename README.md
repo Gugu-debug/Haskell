@@ -1,7 +1,7 @@
 Este repositório foi criado por um aluno de Engenharia de Computação do Departamento de Computação (DComp) da Universidade Federal de Sergipe (UFS) para documentação e ensino do Paradigma Funcional utilizando a linguagem Haskell.<br>
 O código possui arquivos separados por nível de aprendizado, bibliotecas próprias e projetos.
 
-Abaixo segue uma pequena documentação acerca do projeto, também como o andamento de cada uma das pastas.
+Abaixo segue uma pequena documentação acerca do projeto, também consta com o andamento de cada uma das pastas.
 
 **Pastas:**<br>
     <pre>
