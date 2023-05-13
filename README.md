@@ -29,4 +29,5 @@ Abaixo segue uma pequena documentação acerca do projeto, também consta com o 
         3. Após chegar na pasta com os arquivos utilize o comando *:load (nome do arquivo)* ou *:l (nome do arquivo)*.<br>
         4. Finalizando a compilação do arquivo, apenas busque no código o nome da função e suas respectivas entradas.<br>
         5. O código está pronto para ser utilizado.
+        Obs: A IDE utilizada foi o Visual Studio Code.
     </pre>
