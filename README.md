@@ -4,7 +4,7 @@ O código possui arquivos separados por nível de aprendizado, bibliotecas próp
 Abaixo segue uma pequena documentação acerca do projeto, também como o andamento de cada uma das pastas.
 
 **Pastas:**
-    1.iniciante     -> 0%
+    1.iniciante     -> 0%<br>
     2.intermediario -> 0%
     3.avancado      -> 0%
     5.IO            -> 0%
