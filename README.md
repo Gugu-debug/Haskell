@@ -19,7 +19,7 @@ Obs: Novas pastas serão adicionadas aqui
 
 **Inicialiazação:**<br>
     Para se inicializar o Glasgow Haskell Compiler (GHC):<br>
-        <pre>1. Abra o terminal e insira *ghci*.<br>
+        <pre>                      1. Abra o terminal e insira *ghci*.<br>
         2. Encontre o diretorio que estão seus arquivos ou que você deseje trabalhar utilizando *cd: (caminho que seja chegar)*.<br>
         3. Após chegar na pasta com os arquivos utilize o comando *:load (nome do arquivo)* ou *:l (nome do arquivo)*.<br>
         4. Finalizando a compilação do arquivo, apenas busque no código o nome da função e suas respectivas entradas.<br>
